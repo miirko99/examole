@@ -1,0 +1,5 @@
+com\demo\DemoApplication.class
+com\demo\controlers\restControler.class
+com\demo\UserService.class
+com\demo\SecurityConfigure.class
+com\demo\controlers\myControler.class
